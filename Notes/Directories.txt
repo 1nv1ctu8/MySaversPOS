@@ -1,0 +1,3 @@
+>>Server directory
+C:\MySavers\Pos\App
+C:\MySavers\Pos\POSDB

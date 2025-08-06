@@ -1,0 +1,37 @@
+Changes 
+
+Database Changes:
+
+Added date_time to Cash_Tender table
+Added Item_Entry_History table
+
+Query to insert history to all items in Item_Entry_History table:
+
+INSERT INTO Item_Entry_History
+(item_code, date_time, material_cost, price, quantity, updated_by)
+SELECT itemcode, #2024-09-01#, material_cost, retail, inventory_qty, 20
+FROM items
+
+In Items table, change INVENTORY_ACCOUNT to INVENTORY_SOLD
+set inventory_sold to 0: UPDATE Items set inventory_sold = 0
+
+
+update items set to 0 if quantity < 0:
+update items set INVENTORY_QTY = 0 where INVENTORY_QTY < 0
+
+
+
+
+--Changes to app
+Added Item History
+Fixed reprinting showing cash tender
+Removed Owen Lagula as cashier
+Added cost value sale value
+Change transaction num to transaction date in transaction history list
+Repositioned Admin function buttons at the bottom of the page
+Added hotkeys
+Set inventory_qty to 0 for negative numbers
+inventory_qty will no longer show negative number, if more than the qty is sold, it sets to 0
+Every time a sale is made the inventory_sold gets incremented to the quantity purchased
+
+
