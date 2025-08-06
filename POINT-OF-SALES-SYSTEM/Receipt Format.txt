@@ -1,0 +1,59 @@
+MYSAVERS PHARMACY
+D. MACAPAGAL HIWAY SANGI, TOLEDO CITY, CEBU
+PROPRIETOR: VIRGILENE A. ALICAYA
+VAT REG TIN: 416-473-778-00002
+-----------------------------------------
+Customer Name:
+Customer Address:
+Customer TIN:
+-----------------------------------------
+SALES INVOICE NO: <00000000155>
+ENCODER: <Cashier>
+-----------------------------------------
+<Qty> PC <ItemCode>     <Price>   <PricexQty>
+      <Description>
+<Qty> PC <ItemCode>     <Price>   <PricexQty>
+      <Description>
+<Qty> PC <ItemCode>     <Price>   <PricexQty>
+      <Description>
+-----------------------------------------
+Line Items: <Qty>      Quantity: <Qty.00000>
+TOTAL DUE		      <Sum PricexQty>
+      CASH			 <CashTender>
+-----------------------------------------
+CHANGE			<Cash-Sum PricexQty>
+-----------------------------------------
+GROSS SALES		      <Sum PricexQty>
+LESS DISCOUNT		    <TOTAL DISCOUNTS>
+LESS RETURNS				0.00
+
+VAT 12%			  <Sum PricexQtyx12%>
+VATTABLE SALES    <Sum PricexQty - Sum PricexQtyx12%>
+ZERO RATED SALES			0.00
+
+SALES INVOICE NO		<00000000155>
+SO NO				<00000000154>
+MSN				 PH230100842
+CASHIER <FNAME> <LNAME>    
+DATE/TIME		   2024-09-09 23:4659	
+-----------------------------------------
+
+Accredited POS Supplier Trade Name
+Live Help 4 Us Computer Services
+Bantayan Dumaguete City
+TIN 935546208
+ACCREG NO.            07993554620800057553501
+ACCREG DATE ISSUED     May 24, 2012
+EFFECTIVITY DATE       August 27, 2024
+PERMIT NO	   FP082024-083-0463936-00002
+MIN    NO		    24082213000273970
+-----------------------------------------
+
+     THIS SERVES AS YOUR SALES INVOICE
+
+           THANK YOU COME AGAIN!
+      SAVE SALES INVOICE FOR RETURNS
+               AND EXCHANGES
+
+
+  
